@@ -1,0 +1,5 @@
+print('November 5, 2023.')
+print('I am feeling worried. I have exams coming up.')
+print('I want to acheive Nirvana.')
+print('You will not regret this, just stick through it')
+print('🇮🇳')
